@@ -64,3 +64,15 @@ section{
 footer p{
   text-align: center;  
 }
+
+/*Mobaile View*/
+@media (max-width:360px){
+    h1{font-size: 75%;}
+    h3{font-size: 44%;}
+    p{font-size: 42%;}
+    .in-button{font-size:15%;}
+    .top-ban{width: ;}
+    .dream-area{margin-bottom:0%;}
+    section{height: 200px;}
+    h2{font-size: 60%;}
+    }
